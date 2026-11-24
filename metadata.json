@@ -1,0 +1,6 @@
+{
+  "name": "Cadence",
+  "description": "A modern, responsive task management dashboard with priority tracking, due dates, live search, statistics, and automatic LocalStorage persistence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
